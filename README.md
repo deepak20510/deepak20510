@@ -29,7 +29,7 @@
 
 ### 📈 Activity Graph
  
- [![Deepak's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deepak20510&theme=midnight-purple)](https://github.com/adiprem73/github-readme-activity-graph)
+ [![Deepak's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deepak20510&theme=react-dark)](https://github.com/deepak20510/github-readme-activity-graph)
 
 
 ## 🏆 GitHub Trophies
@@ -41,4 +41,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=deepak20510&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h2 align="center">🚀 Always crafting cool things, one line of code at a time! 💻✨🔥</h2>
+<h2 align="center">💡 Where logic meets creativity — welcome to my codebase 👨‍💻✨</h2>
