@@ -29,7 +29,7 @@
 
 ### 📈 Activity Graph
  
- [![Deepak's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deepak20510&theme=react-dark)](https://github.com/adiprem73/github-readme-activity-graph)
+ [![Deepak's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deepak20510&theme=midnight-purple)](https://github.com/adiprem73/github-readme-activity-graph)
 
 
 ## 🏆 GitHub Trophies
