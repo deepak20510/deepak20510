@@ -11,7 +11,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=fira+code&pause=1000&center=true&width=435&lines=Full-Stack+Developer%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Video+Editor%F0%9F%92%95;Always+Learning+New+Things%F0%9F%94%A5;Feel+Free+to+Look+Around%F0%9F%91%80;Reach+Out+If+You+Need+Help%F0%9F%A4%9D" alt="Typing SVG" /></a>
 </p>
 
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
 - 💻✨ **Passionate Developer & Designer** → Crafting beautiful frontends as well as backends with **ReactJS**, **HTML**, **CSS**, and **JavaScript** 🖥️🎨, blending code & creativity seamlessly! 🚀💡  
 
