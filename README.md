@@ -69,7 +69,9 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=deepak20510&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<a href="https://github-trophies.vercel.app/?username=deepak20510" target="_blank">
+  <img src="https://github-trophies.vercel.app/?username=deepak20510&theme=radical&margin-w=4&margin-h=4">
+</a>
 
 ### 🔝 Top Contributed Repo
 
